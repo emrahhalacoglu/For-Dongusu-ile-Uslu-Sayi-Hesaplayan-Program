@@ -1,2 +1,4 @@
 # For-Dongusu-ile-Uslu-Sayi-Hesaplayan-Program
 Java ile kullanıcının girdiği değerler ile üslü sayı hesaplayan programı "For Döngüsü" kullanarak yapınız.
+
+[Patika.dev](https://www.patika.dev/tr)
